@@ -18,7 +18,7 @@ public class FileCopyEx3 {
 		
 		// Source.txt ---> FileCopy ---> Destination.txt
 		
-		//---------------------------------------------------
+		//--------------------------------------------
 		
 		File source = new File("./src/java13_io/fileStream/", "Source.txt");
 		System.out.println("exists : " + source.exists());

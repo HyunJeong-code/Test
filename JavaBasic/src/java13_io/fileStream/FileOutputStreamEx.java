@@ -18,7 +18,7 @@ public class FileOutputStreamEx {
 		try {
 			// 파일 출력 스트림 생성
 			// -> 출력 대상 파일이 존재하지 않으면 파일을 생성
-//			fos = new FileOutputStream(file); // 쓰기 모드
+//			fos = new FileOutputStream(file); // 쓰기 모드 
 			
 //			fos = new FileOutputStream(file, true); // 추가 모드
 			fos = new FileOutputStream(file, false); // 쓰기 모드
