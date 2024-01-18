@@ -9,16 +9,7 @@ import java.io.IOException;
 public class FileCopyEx4 {
 	public static void main(String[] args) {
 		
-		// Quiz
-		
-		// Source.txt 파일의 내용을 읽어들여 Destination.txt.파일로 저장
-		// -> 파일 복사
-		
-		// 49,520,698 bytes
-		
-		// Source.txt ---> FileCopy ---> Destination.txt
-		
-		//---------------------------------------------------
+		// StringBuilder와 그냥 읽기의 용량 차이..?
 		
 		File source = new File("./src/java13_io/fileStream/", "text");
 		System.out.println("exists : " + source.exists());
