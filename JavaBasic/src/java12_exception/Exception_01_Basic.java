@@ -1,5 +1,7 @@
 package java12_exception;
 
+// git 수정해보기
+
 public class Exception_01_Basic {
 	public static void main(String[] args) {
 		
