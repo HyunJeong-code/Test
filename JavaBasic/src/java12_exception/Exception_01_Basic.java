@@ -6,6 +6,8 @@ package java12_exception;
 
 // 1번 추가
 
+// 2번 추가
+
 public class Exception_01_Basic {
 	public static void main(String[] args) {
 		
